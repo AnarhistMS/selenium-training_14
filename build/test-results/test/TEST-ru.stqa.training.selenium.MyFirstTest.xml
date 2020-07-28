@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.stqa.training.selenium.MyFirstTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-12T19:18:33" hostname="Ridiculous" time="51.814">
+<testsuite name="ru.stqa.training.selenium.MyFirstTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-28T15:19:28" hostname="Ridiculous" time="12.993">
   <properties/>
-  <testcase name="myFirstTest" classname="ru.stqa.training.selenium.MyFirstTest" time="51.814"/>
+  <testcase name="myFirstTest" classname="ru.stqa.training.selenium.MyFirstTest" time="12.993"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 34245
+  <system-err><![CDATA[Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 24824
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-июл. 12, 2020 10:18:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1595949571.611][WARNING]: This version of ChromeDriver has not been tested with Chrome version 84.
+июл. 28, 2020 6:19:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
